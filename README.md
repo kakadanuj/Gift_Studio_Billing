@@ -14,7 +14,7 @@ Dictionaries, lists, loops, conditions, input validation, f-strings
 python gift_studio_billing.py
 
 ## Sample output
-![Sample bill](screenshots/sample_bill.png)
+![Sample bill](![alt text](image.png))
 
 ## Possible improvements
 - Save bills to a file
